@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProblemSet4-TicTacToe</string>
+    <string name="empty_cell"> </string>
+    <string name="x_cell">X</string>
+    <string name="o_cell">O</string>
+    <string name="restart">Restart</string>
 </resources>
